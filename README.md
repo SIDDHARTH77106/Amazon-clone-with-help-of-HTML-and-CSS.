@@ -30,8 +30,8 @@ To view and edit this project, you need a basic text editor and a web browser. R
    git clone https://github.com/yourusername/amazon-clone.git
 
 ## Snaps
-![Navbar](assets/navbar)
-![Front](assets/front2)
-![body](assets/body)
-![footer](assets/footer)
+![Navbar](assets/navbar.png)
+![Front](assets/front2.png)
+![body](assets/body.png)
+![footer](assets/footer.png)
 
